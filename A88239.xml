@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prisoners mournfull cry, against the Iudges of the Kings Bench. Or an epistle writ by lieut. col. John Lilburne, prisoner in the tower of London, unto Mr. Iustice Roll : declaring the illegall dealing of himself, and Mr. Justice Bacon with him, in reference to his habeas corpus. Vnto which is annexed his two petitions to the said Iudges, and the petitions of Mr. William Thompson, and Mr. Woodward &amp;c. in which are contained a lash for Mr. Oliver Cromwell and other his spaniolised creatures. With divers other remarkable things worth publique view.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88239</idno>
+            <idno type="STC">Wing L2164</idno>
+            <idno type="STC">Thomason E441_17</idno>
+            <idno type="STC">ESTC R204903</idno>
+            <idno type="EEBO-CITATION">99864352</idno>
+            <idno type="PROQUEST">99864352</idno>
+            <idno type="VID">116580</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88239)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116580)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E441[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prisoners mournfull cry, against the Iudges of the Kings Bench. Or an epistle writ by lieut. col. John Lilburne, prisoner in the tower of London, unto Mr. Iustice Roll : declaring the illegall dealing of himself, and Mr. Justice Bacon with him, in reference to his habeas corpus. Vnto which is annexed his two petitions to the said Iudges, and the petitions of Mr. William Thompson, and Mr. Woodward &amp;c. in which are contained a lash for Mr. Oliver Cromwell and other his spaniolised creatures. With divers other remarkable things worth publique view.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 9th 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Imprisonment --  Early works to 1800.</term>
+               <term>Habeas corpus --  England --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116580:1" rendition="simple:additions"/>
+            <head>The Priſoners mournfull cry, againſt the Iudges of the Kings Bench. OR An Epiſtle writ by Lievt. Col. <hi>John Lilburne,</hi> Priſoner in the Tower of <hi>London,</hi> unto Mr. Iuſtice <hi>Roll:</hi> Declaring the illegall dealing of himſelf, and Mr. Iuſtice <hi>Bacon</hi> with him, in reference to his <hi>Habeas Corpus.</hi>
+            </head>
+            <head type="sub">Vnto which is annexed his two Petitions to the ſaid Iudges, and the Petitions of Mr. <hi>William Thompſon,</hi> and Mr. <hi>Woodward</hi> &amp;c. in which are contained a Laſh for Mr. <hi>Oliver Cromwell</hi> and other his ſpanioliſed Creatures. With divers other remarkable things worth publique view.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Iohn. 19, 20, 21.</hi>
+                  </bibl> For this is condemnation, that light is come into the world, and men loved darkneſſe rather then light, becauſe their deeds are evill. For every one that doth evill, hateth the light, neither commeth to the light, leſt his deeds ſhould be re<g ref="char:EOLhyphen"/>proved. But he that doth truth commeth to the light, that his deeds may be made ma<g ref="char:EOLhyphen"/>nifeſt that they are wrought in God.</q>
+            </epigraph>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>BEing a ſenſible Engliſh man, I am compelled to ſtruggle for my portion in the Lawes and liberties of my native Country, and according to my previledge and right, after all the Councell in <hi>England,</hi> that I could rationally pretend to have any intereſt in, had given over (through feare) the doing of that for me, which by the duty of their places they are bound to doe for me, or any Engliſh man elſe, for his fee; <hi>I</hi> was neceſſitated to ſet my own brains at work to help my ſelf, and rea<g ref="char:EOLhyphen"/>ding in that <hi>Act that aboliſhed the Star Chamber,</hi> I there found, <hi>that if any be committed, or re<g ref="char:EOLunhyphen"/>ſtrained by the Warrant or Order of the King, his Heires or Succeſſors in their own perſon, or any of his privie Councellors, &amp;c. that in every ſuch caſe the party committed, upon demand or motion made by his Councell,</hi> OR OTHER JMPLOYED BY HIM <hi>for that purpoſe, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n to the Iudges of the Court of Kings Bench, or Common pleas in open Court, ſhall without any delay upon an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pre<g ref="char:EOLhyphen"/>tence whatſoever, have forthwith granted unto him, a Writ of Habeas Corpus, &amp;c.</hi> And pauſing upon that clauſe, <hi>viz. Other imployed by him,</hi> my own reaſon told me, it muſt be by ſome man diſtinct from a <hi>profeſſed Lawyer.</hi> So that thereby ſeeing Councell had refuſed to move for me the Tearme before, <hi>I</hi> was a caſting about upon which of my private friends to pitch upon to doe it for me, <hi>Judging it to be my naturally legall right to appoint whom</hi> I <hi>pleaſe,</hi> and therefore reaſoning the caſe with others thar knew ſome thing of the Law, <hi>I</hi> was put upon a Petition, Councellours at Law telling me, as the caſe ſtood with me, <hi>a Petition preſented in open Court by a friend, is as legall as a motion by a Councellour at the Barre, notwithſtanding any rules or orders made by the Court, for the monopolizing profit of the Lawyers to the contrary.</hi> Now if this be true
+<pb n="2" facs="tcp:116580:2"/>
+in law; you have done me injuſtice in denying me a <hi>Habeas Corpus</hi> upon my Petition, and force<g ref="char:EOLhyphen"/>ing my Solicitor to name Councell to move for it againſt their wills and minds, who it may be, are afraid of an arbitrary deſtruction from my potent adverſaries, who <hi>de facto</hi> have already done, it upon divers others. Yet they moved, and you granted me a <hi>Habeas Corpus</hi> to bring my body and cauſe before you, which by my Petition upon the 25. <hi>April</hi> laſt, <hi>I</hi> certifie unto you the Lievtenant, will not obey, and ſent it to you in open Court by my Solicitor, who before you was ready to make oath of the delivery of the <hi>Habeas Corpus,</hi> in which Petition <hi>I</hi> earneſtly preſſe for an <hi>Alias,</hi> and yet notwithſtanding you will not grant it to me <hi>though it be my right by Law,</hi> whereupon I was delayed (as J conceive by your and my Cuuncells fearfullnes) for 4. or 5. dayes before J could get it moved, and when upon <hi>Saterday</hi> loſt my Councell did move, J am delayed by you <hi>(which Sir Edward Cook often ſaith, is worſe then to deny me iuſtice)</hi> and can not obtaine an <hi>Alias</hi> from you as by Law <hi>I</hi> ought, and although <hi>I</hi> underſtand a returne (whether true or falſe <hi>I</hi> know not) is made of my commitments, yet it is neither read in open Court, nor filed in Court, <hi>ſo that I cannot judicially get a Copy of it,</hi> to ſee whether it be true or falſe, which is a wrong in Law unto me. <hi>And that mock return is no Obedience to the Habeas Corpus which commands my body as well as my cauſe to be returned.</hi>
+            </p>
+            <p>Sir, I alſo underſtand that before you will grant me an <hi>Alias,</hi> you have ordered to heare my Councell upon <hi>Tueſday</hi> next, upon the return, when as alaſſe they have many dayes ſince ſent me word, they are altogether unwilling to plead to the illegallity of my Commitment, or any further ſaving to the point of a <hi>Habeas Corpus.</hi> And truly Sir, <hi>I</hi> cannot much blame them, conſidering they now ſee Mr. <hi>William Thompſon</hi> a free man of <hi>England,</hi> and no Souldier, taken away by <hi>Cromwell and Ireton from the Houſe of Commons Doore;</hi> and violently carried to <hi>White-Hall,</hi> and there by Marſhall Law by them, &amp;c. condemned to dye, to the ſubvertion of the lawes of the land, for whith they deſerve the Earle of <hi>Straffords</hi> puniſhment, and you will not doe your duty ſpeedily to relieve him, which it may be they may thinke may ſhortly be their own caſe, if they ſhould be bold, and effectually plead the Law for me, and therefore they leave that part of my plea to my ſelf, when I come to the Bar, which I am ready and willing at my perill to under<g ref="char:EOLhyphen"/>take, <hi>and therefore doe earneſtly intreat you, as either iuſtice or honour dwels within your breaſt, without any further delay, to grant me another Habeas Corpus,</hi> (with a large penalty in it) <hi>which is my right by Law,</hi> for the denyall of obedience to the firſt by my Gaoler, is againſt Law, <hi>or which offence he is ſubiect by law to be fined as the pleaſure and diſcretion of the Court which hee hath diſobeyed.</hi> And J wiſh my Councell may have oritory enough to agrivate the offence, and preſſe for a large fine upon him.</p>
+            <p n="2">2. <hi>To an action upon the caſe for falſe impriſon<g ref="char:EOLhyphen"/>ment, upon which action the party grieved ſhall re<g ref="char:EOLhyphen"/>cover great damages.</hi>
+               <note n="a" place="margin">3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Ed. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Rot 71. &amp; 79. Corum rege Hilli. &amp; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. part inſt. fol 53. &amp; 13. Ed. 2. c. 39. ſee the expoſition of it, in 1. part in f. 451. 452. &amp; Raſtalls book of entrys folio 501. 6<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.</note>
+            </p>
+            <p n="3">3 <hi>He may be indicted for his offence and contempt of the Law, and upon his conviction, he is to be fined, impriſoned, and to be at the mercy of the King.</hi>
+               <note n="b" place="margin">Weſt. 1. being 3. Ed. 1. ch. 15. at the end ſee alſo the expoſition upon it, 2. part inſt. fo. 191. and 28. Ed. 1. ch. 16.</note>
+            </p>
+            <p>But alaſſe Sir to what purpoſe is all this, if J can<g ref="char:EOLhyphen"/>not injoy the benefit of the Law from your hands, and therefore Sir, <hi>I</hi> humbly intreat you to bee an effectuall inſtrument to command my body before you according to your duty, to plead for my life and the lives of my diſtreſſed wife and little children, that are all wrapt up in mine now dying a lin<g ref="char:EOLhyphen"/>gering death, worſe then the ſword to any heroicall mind, and either effectually according to your oath, doe me ſpeedy juſtice, without any more fearefull delayes, or elſe ceaſe to be a Iudge.
+<pb n="3" facs="tcp:116580:2"/>
+And therefore let nothing before you be done in my abſence about the merit of my cauſe, <hi>for my Councell dare not preſſe my buſineſſe home,</hi> neither can <hi>I</hi> well preſſe it upon them, becauſe I have nothing conſiderable to requite them if they ſhould ſuffer therefore.</p>
+            <p>But if you will goe on with your intentions to morrow, then I intreat you that if J cannot ſpeak in perſon before you, that I may ſpeak unto you by my pen, <hi>what my Councell dare not ſay for me.</hi> And that my Plea which J have fitted to plead my ſelf when <hi>I</hi> ſhall be brought before you, may be read in open Court with my Councell at the Barre, and J ſhall ſo farre willingly lay aſide at preſent my priveledges, as to abide your iudgement upon reading my Plea, and hea<g ref="char:EOLhyphen"/>ring my Councell upon it, for all that <hi>I</hi> deſire is but to be laid to the true touchſtone of the Law, and my guilty conſcienced adverſaries ſhunning that clearly thereby declare, they are workers of iniquity, and dare not abide the light, <hi>Iohn</hi> 3, 19.20.21.</p>
+            <p>Sir my extremities and ſufferings are tranſcendent, and if you will not do me Iuſtice for Iuſtice ſake, <hi>know that I have writ theſe lines on purpoſe to leave</hi> you without excuſe, knowing ther is a righteous God in heaven that judgeth righteouſly, <hi>and hears the ſighs and groans of his poore op<g ref="char:EOLhyphen"/>preſſed and diſtreſſed Priſoners,</hi> and many times even on earth puniſheth Iudges with the law of like for like, unto whom J mournfully commit my cauſe, and now as my laſt legall hopes, if from your hands <hi>I</hi> can get no juſtice, but muſt be expoſed by your hard heartedneſſe to ruin and deſtruction, <hi>then a deſperate diſeaſe muſt have a deſperate cure,</hi> and the will of God be done, for like a man of mettell and reſolution that neither feares Legions of Divells nor men, death nor hell, (aſſuredly knowing my portion is in heaven with the Lord of glory, in whoſe boſome I ſhall one day reſt,) I am reſolved to periſh, but ſhall take my leave, yet, to ſubſcribe my ſelf</p>
+            <closer>
+               <signed>
+                  <hi>Your affectionate friend and ſervant</hi> Iohn Lilburne.</signed>
+               <dateline>
+                  <hi>From the Tower of</hi> London <date>1. <hi>May,</hi> 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Jf you pleaſe,</hi> I <hi>intreat you to ſhew this to your Brother, Mr. Iuſtice</hi> Bacon.</p>
+            </postscript>
+         </div>
+         <div n="1" type="petition">
+            <head>
+               <hi>My forementioned firſt Petition the</hi> 19. April, 1648. <hi>verbatim thus followeth. To the honourable the Judges of the Kings bench.</hi>
+The humble Petition of Lievt. Col. <hi>Iohn Lilburne</hi> Priſoner in the Tower of <hi>London,</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat your Petitioner is an Engliſhman, and thereby intailed and intituled to the benefit of all the lawes of England which by your Oaths<note n="a" place="margin">Which is printed in Pultons collect. of Statutes fol. 144. and the peoples prero<g ref="char:EOLhyphen"/>gative. p. 10.</note> you <hi>are ſworne indifferently and equally with<g ref="char:EOLhyphen"/>out feare or partiallity to adminiſter grat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to all per<g ref="char:EOLhyphen"/>ſons rich and poore, without</hi> having regard <hi>to any perſon notwithſtanding any command whatſoever to the contrary, though ſignified under the great</hi>
+               <note n="b" place="margin">See the 9. H. 3. ch. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9. &amp; 2. Ed. 3. ch. &amp; 14. Ed. 3. ch. 14. &amp; 11. <hi>R.</hi> 2. ch. 10. and the Petition of R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght, the 3d. <hi>C. R</hi> &amp; 2. part inſt. fo. 56. &amp; 4. part inſt. fo. 68.</note> 
+               <hi>Seale or the little Seale, or any otherwiſe, yet it ſhall not delay, or diſturb common right, nor you ceaſe to doe it in any point according to the law of the Land.</hi>
+            </p>
+            <p>Now foraſmuch as a Habeas Corpus is part of the law of England, and ought not by law to be denyed to any man<note n="c" place="margin">See 2. <hi>H,</hi> 5. ch. 2. Petition of right, 3. <hi>C. R,</hi> &amp; the act that aboliſhed the Star-Chamber 17. C.R. &amp; 2. part inſt. 53. 55. 189. 615, 616. &amp; 4. part f. 71.</note> whatſoever that demand it, which though your petitioner earneſtly endeavoured the laſt Tearme to obtaine, yet could not prevaile with his Counſell to move for it, although <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hath almoſt this two yeares been detained in priſon in the Tow<g ref="char:EOLhyphen"/>er
+<pb n="4" facs="tcp:116580:3"/>
+of London, without all ſhadow of Law or iuſtice, and by the Lievtenant thereof, hath been <hi>divorced from the ſociety of his wife, debarred from the free acceſſe of his friends, deprived of the uſe of pen; inke and paper:</hi> all which uſages are againſt the expreſſe Lawes and Statutes of this Land, your Petitioners Birth-right and inhe<g ref="char:EOLhyphen"/>ritance.<note n="d" place="margin">2. pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inſt. f. 56. 63, 97. 5 26. and 4. part folio. 41.</note>
+            </p>
+            <p>Therefore your Petitioner humbly prayeth, according to his Right, and your Oaths, the be<g ref="char:EOLhyphen"/>nefit of a <hi>Habeas Corpus, (and that he may have it Gratis,</hi>
+               <note n="e" place="margin">† See the 26. of <hi>Magna Charta.</hi> and the expoſition upon it in the 2. part inſt fol. 42. &amp; 3. Ed. 1. ch. 26. and the expoſiti<g ref="char:EOLhyphen"/>on upon it in the 2. par. in. f. 210. ſee al<g ref="char:EOLhyphen"/>ſo f. 74. 533, 535. and the ſtat. of the 11. <hi>H.</hi> 4. No. 28. not printed in the Stat. book, but is printed in the 3. pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. inſt. fol. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 46, 224, 225.</note> 
+               <hi>according to the law of the Land, and your oaths)</hi> to bring his body and cauſe before you in open Court, there to receive your award and Iudgement, according to the declared law of England.</p>
+            <closer>
+               <signed>
+                  <hi>And your Petitioner ſhall pray,</hi> Iohn Lilburne.</signed>
+               <dateline>
+                  <hi>Tower</hi> 
+                  <date>the 19. April, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="2" type="petition">
+            <head>My forementioned ſecond Petition of the 25. <hi>April</hi> 1648. thus followeth.</head>
+            <head>To the Honourable the Iudges of the KINGS BENCH, <hi>The humble Petition of Lievt. Col.</hi> John Lilburne, <hi>Priſoner in the TOWER of LONDON.</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>THat upon a Petition delivered to your Honours upon Tueſday laſt, being the 19 preſent you were pleaſed to aſſigne councell to move for a <hi>Habeas Corpus</hi> to bring your Peti<g ref="char:EOLhyphen"/>tioners body and cauſe before you, which accordingly you were pleaſed to grant upon their motion, and to make the writ retournable this preſent Tueſday, at which time, after a long cauſleſſe and unjuſt impriſonment, your Petitioner hoped to have bin brought before you to have pleaded for his life, which hath bin ſtrongly endeavoured by his potent adverſaries, in his unjuſt impriſonment, to be taken away from him, having kept him moſt illegally in a charge<g ref="char:EOLhyphen"/>able impriſonment, almoſt two years together, <hi>without ever laying any crim legally to his charge,</hi> or bringing him legally to any Bar of juſtice to a legal Tryal, keeping almoſt 3000l, of his own proper right from him, and in his hard and extraordinary chargeable im<g ref="char:EOLhyphen"/>priſonment have not yet allowed your petitioner a peny to live upon al<g ref="char:EOLhyphen"/>though an allowance according to his quality, be his right by the cuſtom of the place where he is a Priſoner, divers <hi>rich Members</hi> of the preſent houſe of Commons having from the <hi>preſent King</hi> enjoy'd the ſame,<note n="*" place="margin">Mr. <hi>Walter Long</hi> confeſſed about a year agoe, he ſpent the King whileſt he was Priſoner in the Tow<g ref="char:EOLhyphen"/>er 1500. l. in Wine and good Cheere, and yet by this Parliament he had 5000, l. vot<g ref="char:EOLhyphen"/>ed him for his ſaid ſufferings, and ſo had Mr<g ref="char:punc">▪</g> 
+                  <hi>Seldon</hi> and all the reſt of his fellow ſufferers, &amp; ſome of them it is ſaid have already received all their money.</note> not withſtanding the peaceable poſſeſſion of their great eſtates in the begining of his raign.</p>
+            <p>Yet notwithſtanding this, and all other earneſt endeavours, your Petitioner hath with unwea<g ref="char:EOLhyphen"/>ried induſtry uſed to bring himſelf to the Bar of Iuſtice, there to receive <hi>but ſo much favour as
+<pb n="5" facs="tcp:116580:3"/>
+every Traytor, Murderer, or Rogue ought to enioy,</hi> viz, <hi>the benefit of the Law,</hi> profeſſing unto you that is all the Favour, Mercy, Pitty, and Compaſſion he craves at the hands of all the Adverſaries he hath in the World, chuſing rather to expoſe himſelfe to any death in the World, then to a languiſhing tormenting death in a murthering Goale, which your Peti<g ref="char:EOLhyphen"/>tioner cannot but feare is the determined reſolution of his bloody and cruell adverſaries, in that Col. <hi>Robert Tichburne, the preſent Goaler of the Tower,</hi> refuſeth to returne the Body and cauſe of your Petitioner before your Honours according to the legall command of the ſaid Writ of <hi>Habeas Corpus.</hi>
+            </p>
+            <p>Now foraſmuch as your Petitioner doth aver, and offers upon his life to mak it good by Law, that although your Petitioner be committed by two pretended Warrants, <hi>yet the Courts that made them, have not the leaſt ſhadow or colour in law to commit your Peti<g ref="char:EOLhyphen"/>tioner, being they are not, nor never were intruſted by law either divided or conioyned to by the executors of it;</hi>
+               <note n="†" place="margin">See the 29. ch. of <hi>Magna Charta,</hi> and the exp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſition upon it, in the 2. part. in<g ref="char:EOLhyphen"/>inſtituts fol, 46. &amp;c. and the Petition of Right 3. <hi>C.R.</hi> and the act that aboliſhed the Star-cham<g ref="char:EOLhyphen"/>ber the 17. <hi>C, R.</hi> and the 5. <hi>R.</hi> 2, Rot. Parl. num. 45. and 1. H. 4. num 79, and 5. H. 4. chap. 6. &amp; 8. H. 6 ch. 7. and 11. <hi>H.</hi> 6. chap. 11. 23. H. 6. ch. 11. 15. and 4. H. 8. ch. 8. and 1 and 2, P. and M. ch. 10. and 4. part inſti. fol. 25. 1. par, decl. p. 48. 2. 278.</note> and though they had a legal juriſ<g ref="char:EOLhyphen"/>diction in Law to commit your Petitioner (which they have not) yet by both their warrants ther is no legal crime at all expreſſed wherefore they commit your Petiti<g ref="char:EOLhyphen"/>oner (generall charges in Law being no charges nor crimes<note n="*" place="margin">2, par. inſti. fo. 52. 53, 315. 318, 591. 615. 616. and 4 pert fo. 39. 1. part book dec. pag. 38. 77. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>01. 845. and the votes upon the impeachment of the 11 memb. the petition of Right the 3. C. R and the act that aboliſhed the Star-chamber 17. C. R. printed in my book called the peo<g ref="char:EOLhyphen"/>ples prerogative page 22. 23. 24. 25. 26.</note>) and therefore there is no colour in Law for his impriſonment or de<g ref="char:EOLhyphen"/>tention.</p>
+            <p>Wherefore your Petitioner moſt humbly prayeth a ſecond Writ, with a ſtrict and ſevere penalty in it, according to Law, to command his body and cauſe before you, and that according to the duty of your places, you forthwith grant it to your Petitioner without any further motion of Counſell, it being as legall for your Petitioner to move for it by his Petition, or by any friend he ſhall depute and ap<g ref="char:EOLhyphen"/>point, as by a Councellor.</p>
+            <closer>
+               <signed>
+                  <hi>And he ſhall pray, &amp;c.</hi> John Lilburne.</signed>
+               <dateline>
+                  <date>
+                     <hi>Aprill</hi> 25. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="petitions">
+            <head>The forementioned Petitions of Mr. <hi>Woodward,</hi> and Mr. <hi>Thompſon,</hi> &amp;c. thus followeth.</head>
+            <div type="petition">
+               <head>To the Honourable the Iudges of the Kings Bench. The Humble Petition of <hi>Richard Woodward,</hi> and <hi>Mary Collens,</hi> priſoner in the White Lyon <hi>Southwarke.</hi>
+               </head>
+               <opener>Sheweth,</opener>
+               <p>THat your Petitioners are freeborne people of the Engliſh Nation, and are thereby intailed, and intituled to the benefit of all the Lawes of <hi>England,</hi> which by your oaths <hi>(a)</hi> you are ſworn indifferently and equally without feare or partiallity to adminiſter <hi>Gratis,</hi> to all perſons rich and poore, without having regard to any perſon, notwithſtanding any command whatſoever to the contrary, though ſignified under the great Seale, or the little Seale, or any
+<pb n="6" facs="tcp:116580:4"/>
+otherwiſe, yet it ſhall not delay nor diſturb common right, nor you ceaſe to doe it in any point <hi>(b)</hi> according to the Law of the Land.</p>
+               <p>Now for as much as a <hi>Habeas Corpus</hi> is part of the Law of <hi>England,</hi> and ought not by Law to be denyed to any man whatſoever that demands it, <hi>(c)</hi> it being your Petitioners Birthright and inheritance, who are now detained in hard du<g ref="char:EOLhyphen"/>rance contrary to Law and Iuſtice without baile or Mainpriſe<note n="d" place="margin">1. part inſt. lib. 3. ch. 7. Sect. 439 fo. 260. &amp; 2. part inſt. fo. 42, 43. 53. 54. 115. &amp; 3. Ed. 1. ch. 25. See Sir Ed. <hi>Cooks</hi> expoſition upon it, 2. part inſt. fo. 186, 189, 190, 315. ſee alſo 1, and 2. P. and M. chap. 13.</note> though it hath often been proferred to thoſe, &amp;c. that cauſleſly committed your petitio<g ref="char:EOLhyphen"/>ners to priſon, where they violently and illegally keep them without bringing of them the laſt Aſſizes to a tryall at Law, as by Law they ought to have done.</p>
+               <p>Therefore your petitioners humbly pray, according to their right, and your Oaths, the benefit of a <hi>Habeas Corpus</hi> (and that they may have it <hi>Gratis</hi> according to the Law of <hi>England,</hi> and your Oaths) to bring their bodies and cauſes before you in open Court, there to re<g ref="char:EOLhyphen"/>ceive your award and judgement according to the declared Lawes of <hi>England.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>And your Petitioners ſhall pray, &amp;c.</hi>
+                     <list>
+                        <item>Richard Woodward.</item>
+                        <item>Mary Collens.</item>
+                     </list>
+                  </signed>
+                  <date>18. April, 1648.</date>
+               </closer>
+            </div>
+            <div type="petition">
+               <head>To the Honourable the Iudges of the Kings Bench. The humble Petition of <hi>William Thompſon</hi> a free Commoner of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and no Soldier.</head>
+               <opener>SHEWETH,</opener>
+               <p>THat the lawes of <hi>England</hi> are your petitioners inheritance<note n="(a)" place="margin">2. part inſtitutes fol. 56. 63. 97, 526. and 4. part inſti. fo. 41.</note> and birthright, by vertue of his being an Engliſhman, by which inheritance he hath this priviledge, that he ſhall not be reſtrained of his liberty, impriſoned, paſt upon, or condemned, but by the declared lawes of <hi>England</hi>
+                  <note n="(b)" place="margin">ſee the Petition of Right made in the 3. <hi>C.</hi> R. confirmed this Parliament in e<g ref="char:EOLhyphen"/>very particular by the act that aboliſheth ſhip money, ſee alſo the act that aboliſhed the Star-Chamber, 17. C. R. and 2. part inſti. fo. 46. 47. 50.</note> viz, by a ſworn Iudge of the law, in the ordinary Courts of juſtice, and by a grand jury and a petty jury of 24, legell men of his equals, and of the neighbour-hood, where the crime is pretended to be committed who are Iudges of matter of<note n="(c)" place="margin">See 1. part inſti. lib. 2. chap. 11. ſect. 193. fol. 135, and chap. 12. ſect. 134. fo. 155. 157. and 13. Ed. 1. ch. 38. and 28. Ed. 1. ch. 9. and 34. Ed. 3. ch. 4. and 42. Ed. 3. ch. 11.</note> fact) they are the very words of the Petition of Right, yet notwithſtanding may it pleaſe you honours, ſo it is that in Feb. laſt, your Petitioner was without any the leaſt ſhadow or colour in law, taken without any warrant in writ<g ref="char:EOLhyphen"/>ing by the power of armed Soldiers, and carried by force of Arms priſoner to the Marſhall generall of the Army, by vertue of the verball commands of ſome pretended officers of the Army, and hath ever ſince been by force of armes againſt all law and juſtice kept priſoner in White Hall,
+<pb n="7" facs="tcp:116580:4"/>
+where he hath been moſt barbarouſly and inhumanly uſed, and his life endeavoured to be taken away from him by the pretended power of Marſhal law, to the high &amp; tranſcendent violation of <hi>Magna Charta</hi> the Petition of Right, and all the fundamentall lawes of <hi>England,</hi> it being decla<g ref="char:EOLhyphen"/>red by that learned Lawyer Sir <hi>Edward Cook</hi> in the 3. part of his inſtitutes chapter of murder fo. 52. (which book is publiſhed by this preſent Houſe of Commons for good Law) that for a ge<g ref="char:EOLhyphen"/>nerall of an Army or any other that hath Commiſſion of Marſhall authoritie in time of peace (as now it is, and is ſo declared by the Parliament in their laſt Declaration againſt the <hi>Scotch</hi> Commiſſioners) to hang, or execute any man whatſoever (Souldier or other) by culler of Mar<g ref="char:EOLhyphen"/>ſhall Law, it is abſolute Murder, and hath been in Law often ſo adjudged, as he there declares<g ref="char:punc">▪</g>
+               </p>
+               <p>
+                  <hi>Now foraſmuch as your honours are Iudges of the Law, and ſworne impartially to doe equall execution there of, your Petitioner therefore craveth the benefit of a Ha<g ref="char:EOLhyphen"/>beas Corpus gratis, his undoubted right by law, to command his body and cauſe before you in open Court, thereto receive your award and iudgement, according to the declared Law of England.</hi>
+               </p>
+               <closer>
+                  <signed>And your petitioner ſhall pray, &amp;c. William Thompſon.</signed>
+                  <dateline>White-Hall <date>this 18. April 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="letter">
+            <head>To fill up this waſt paper, <hi>I</hi> ſhall deſire the Reader to caſt his eyes upon my Inſtructions about my Habeas Corpus, which I gave unto my Soliciter, which thus followeth.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I am in ſome ſence ſorry you named my Councell at all, for I could have wiſhed I had laid a moneth in priſon longer, ſo it had been put upon this iſſue, to have demanded the Iudges an<g ref="char:EOLhyphen"/>ſwer poſſitively, whether upon the bare Petition they would have granted me the Habeas Corpus or no-</p>
+            <p>For Firſt, <hi>I</hi> am ſute it is as much my right by a Petition, as a thouſand motions, and as they would have done me an inconvenience in denying it, ſo I am ſure I ſhould have done them a greater in concluſion, which in my own thoughts would have been equiva<g ref="char:EOLhyphen"/>lent to my loſſe.</p>
+            <p>Secondly, This way in not granting it without the motion of a Lawyer, deſtroyes out native and legall rights, for if <hi>I</hi> authoriſe you to doe it for me in the caſe I am in, the Iudge by Law ought to heare you for me as well as any Lawyer in <hi>England,</hi> as appears by the Act that aboli<g ref="char:EOLhyphen"/>ſheth the Star Chamber. 17. <hi>C. R.</hi>
+            </p>
+            <p>Thirdly, This deſtroyes all poor oppreſſed men, that have not a Fee to ſee a Lawyer, who commonly will but move his lips very faintly without it, whereas if the right of Peti<g ref="char:EOLhyphen"/>tioning were kept up, divers that periſh and are deſtroyed in priſon would be relieved thereby.</p>
+            <p>Fourthly, This is deſtructive to the lives and being of all oppreſſed men, that are committed by potent adverſaries, as <hi>I</hi> am, having both houſes and the Grandees of the Army to deale with, the ſingle Grandees of the Army, having already cruſhen and baniſhed by power and force, tall Cedars in compariſon of ſuch little ſhrubs as Mr. <hi>Narborow,</hi> and Mr. <hi>Cook,</hi> unto whom I am ſo much oblieged, that I am not free to preſſe them to doe that for me, that that Lawyer muſt doe that will doe my buſineſſe as it ought to be done, their profeſſions being their livelyhood, for any thing I know, and if for their honeſt, reſolved reſolution in my buſineſſe they ſhould ſuffer, I am not able to require them, and truly <hi>I</hi> am afraid they cannot effectually doe me ſervice in the
+<pb n="8" facs="tcp:116580:5"/>
+preſent caſe, but they muſt run the hazzard of their own unavoidable ruine, and therefore when you give them their fees, preſſe them to this or nothing, <hi>viz.</hi>
+            </p>
+            <p>To keep the Iudges cloſe to the right of a <hi>Habeas Corpus,</hi> to be granted to whoever craves it, by whomſoever committed, and that he is not, nor ought not, nor cannot judicially take cogni<g ref="char:EOLhyphen"/>zance by whom, or for what I am committed, till it appeare legally and judicially in open Court before him, and it is my poſitive inſtructions, they ſhall not tell the Iudge by whom <hi>I</hi> am committed, and if the Iudge himſelf ſhall tell them by whom I am committed, and ſo thinke to bull me and them, I deſire them with all their skill to wave that, and preſſe for a <hi>Habeas Corpus,</hi> and then upon the return it will appeare, and <hi>I</hi> am ſure judicially, they or he cannot fix their judgements upon reports, all that <hi>I</hi> deſire is but a <hi>Habeas Corpus,</hi> to come to the Barre to plead my cauſe my ſelf, and I ſhall eaſily my ſelf make it appeare by law, that theſe that com<g ref="char:EOLhyphen"/>mitted me, have not the leaſt ſhadow or cullour in Law to do it, all that I deſire without further diſpute, is but to have the Iudges Negative or Affirmative, by vertue of my right in demanding of it, for the Iudge ought not to inquire by whom J am committed, neither ought they to tell him, but it is enough I am in priſon, which you may make Oath of, and it is his duty upon my demand to grant me a writ to bring my body and cauſe before them, and let them deny it at their perill, for if they doe J weigh it not at all, for yet <hi>I</hi> am not totally priſon ſick, and <hi>I</hi> deſire no more advantage to trouble them in due time, as bad as a neſt of Hornets or Waſps, but their poſitive deny all. Preſent my hearty ſervice to Mr <hi>Sommers</hi> my Attorney, and deſire a bill from him, and Make his laſt Tearmes buſineſſe even, only take notice <hi>I</hi> ſent him 20. s. and bid him expect and look for the Gaolers anſwer, and ſpeedily ſend it to me, but in treat him hereby to goe no further without my further inſtructions, and I ſhall reſt.</p>
+            <closer>
+               <signed>Yours to ſerve you, John Lilburne.</signed>
+               <date>19 April 1648.</date>
+            </closer>
+            <postscript>
+               <p>Now O all true hearted Engliſh men that love juſtice and reall actions, more then perſons and ſactions, ſeriouſly conſider and way my unparaleld condi<g ref="char:EOLhyphen"/>tion who was brought into my conteſt with the Houſe of Lord by Mr. <hi>Oliver Cromwell</hi> (that u<g ref="char:EOLhyphen"/>ſurper tyrant theefe and murderer as in the 9. to 11. p. of my late plea for a <hi>Habeas Corpus</hi> I fully prove him to be, and am ſtill ready at the Kings Bench-bar to make it good with my life) and when he had brought me into the briars, ther like a baſe &amp; perfidious man leaves me to be ſcratch<g ref="char:EOLhyphen"/>ed in peeces, and not only ſo: But in the third place, joyns with the Earl. of <hi>Mancheſter,</hi> &amp;c. (whom he had imeached of Treaſon, (and againſt whom he had engaged me) to deſtroy me, becauſe <hi>I</hi> will not ſtope to the juriſdiction of the Houſe of Lords over Commoners, although by law they have no more then ſo many Tinkers and Chimny ſweepers have, as is fuller proved in my books called the fice mans freedom vindicated, the Anotamy of the preſent Houſe of Lords, The oppreſſed mans oppreſſion declared, The Out-cryes of oppreſſed Commoners, my Grand Plea before Mr. <hi>Maynara</hi> of the houſe of Commons 20. <hi>October</hi> 1647. The People prero<g ref="char:EOLhyphen"/>gative, and my Whip for the houſe of Lords, and in the books called Sir <hi>John Maynards</hi> caſe tru<g ref="char:EOLhyphen"/>ly ſtated, The Royall Quarrell The Plea and Proteſt of A. B. a Citizen of <hi>London,</hi> and the late printed Petitions of the impriſoned Aldermen of <hi>London,</hi> and yet though by all theſe books the Lords juriſdiction over Commoners in any caſe by law is levelled with the earth, yet nothing will ſerve <hi>Cromwells</hi> t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ane for my oppoſition to the Lords in maintaing my own liberties, but my blood, although if he would have helpt me to my liberty, and that which the Parliament iuſt<g ref="char:EOLhyphen"/>ly owes me, I have offered him to leave the Kingdom, and totally to refer all differences betwixt us to the finall determination of his own Generall, and for my conteſt with the Lords wholly to the houſe of Commons, or the Judges of the Common law, none of which he will imbrace, and therefore judge righteouſly betwixt us.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
